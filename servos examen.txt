@@ -1,0 +1,94 @@
+#include<16f887.h>
+#use delay(clock=8000000)//frecuencia de reloj 
+#fuses XT, NOWDT, MCLR
+//funciones para controlar puertos de entrada
+#use fast_io(B)
+#use fast_io(C)
+#use fast_io(D)
+#use fast_io(E)
+
+//declaracion de matriz 
+int matriz_1[5][5]={
+(1,4,2,5,3)             //numero de servo
+(180,0,100,45,20)       //grados de cada servo el servo 1 se mueve 180, el servo 2 se mueve 100°
+(0,0,0,0,0) //obtenemos los tiempos de cada grado esto quiere decir que para moverme a 180° debo crear una señal de 2300us=2300 microsegundos
+(0,0,0,0,0)             //aqui debes llenar llamando a una funcion los tiempos de tmr0
+(0,0,0,0,0)             //aqui debes obtener los tiempos reales de desbordamiento del timer0
+}
+
+//para obtener los valores  de la tercer fila los cuales son los tiempos de cada grado es co la siuiente formula
+//  tiempo señal=((grados*1750)/180)+550
+//el ejemplo seria  para 180°  tiempo señal=((180*1750)/180)+550=2300
+//por lo cual empiezo a llenar mi matriz recordando como lleno una matriz con 2 ciclos for
+//mi matriz empieza a llenar con valores de tiempos
+/*
+int matriz_1[5][5]={
+(1,4,2,5,3)             
+(180,0,100,45,20)       
+(2300,0,0,0,0) 
+(0,0,0,0,0)             
+(0,0,0,0,0)             
+}*/
+//debes hacerlo para los otros valores 180,0,100,45,20
+//recuerda que debes crear una funcion para llenar esa parte de la matriz
+
+//AHORA DEBES CREAR OTRA FUNCION PARA OBTENER LOS TIEMPOS DE TMR0
+//PARA ESTE PASO OCUPE LOS DATOS DE MI PRESENTACION TRABAJO A 8MHZ, Y CON PREESCALADOR DE 256
+//hare el ejemplo con 2300
+//TMR0=256-(Tdesbordamiento/1 tick)=256-(2300us/128us)=238   este valor lo debo poner en la matriz recordando que se debe hacer con 2 for
+/*
+int matriz_1[5][5]={
+(1,4,2,5,3)             
+(180,0,100,45,20)       
+(2300,0,0,0,0) 
+(238,0,0,0,0)             
+(0,0,0,0,0)
+*/
+// debes realizarlo con los valores que obtuviste con el paso anterior
+// ya que tienes los datos de tiempos del servo y tiempos de TMR0 ahora vamos a sacar los tiempos de desbordamiento efectivos
+// supongamos que tienes esta matriz llena. OJO NO ES LA REAL
+/*
+int matriz_1[5][5]={
+(1,4,2,5,3)             
+(180,0,100,45,20)       
+(2300,550,1000,980,700) 
+(238,80 ,160,155 ,140)             
+(0,0,0,0,0)
+*/
+// DEBEMOS SACAR LOS TIEMPOS DE DEBORDAMIENTO DEL TIMER0
+//PRIMERO DEBEMOS HACER UN ORDENAMIENTO CON ALGUN METODO CON EL FIN DE PODER TRABAJAR LOS TIEMPOS EN ORDEN
+/*int matriz_1[5][5]={
+(4,    3,  5,   2,   1)             
+(0,   20, 45, 100, 180)       
+(550,700,980,1000,2300) 
+(80, 140, 155,160, 238)             
+(0,0,0,0,0)
+*/
+//COMO OBTENEMOS LO TIEMPOS RESTANTES
+//EL PRIMER VALOR LO DEJAMOS COMO ESTA
+/*int matriz_1[5][5]={
+(4,    3,  5,   2,   1)             
+(0,   20, 45, 100, 180)       
+(550,700,980,1000,2300) 
+(80, 140, 155,160, 238)             
+(80,0,0,0,0)
+*/
+// EL SEGUNDO VALOR LO OBTENEMOS DE 140-80=60
+/*int matriz_1[5][5]={
+(4,    3,  5,   2,   1)             
+(0,   20, 45, 100, 180)       
+(550,700,980,1000,2300) 
+(80, 140, 155,160, 238)             
+(80,60,0,0,0)//ESTO SE HACE POR QUE 80+60=140 EL CHISTE QUE QUE COMO TODOS EMPIEZAN AL MISMO TIEMPO SOLO DEBEMOS COMPLEMENTAR EL TIEMPO ESTO ES
+*/           // TODOS LOS SERVOS SE ENCIENDEN AL MISMO TIEMPO, PERO SOLO EL PRIMERO SE QUEDARA EN 0°, POR QUE AL ENTRAR A LA INTERRUPCION DE TMR0 CON TIEMPO DESBORDAMEINTO DE 80
+            //EL SERVO 1 SE DEBE APAGAR, Y CARGAMOS EL tmr0 AHORA CON 60, ESTO ES POR QUE YA CORRIO LOS PRIMEROS 550US Y FALTAN 150US PARA TENER LOS 20° POR EL SO EL TIMER LO 
+            //CARGAMOS CON tmr0=60, POR QUE CON 80 QUE YA CORRIERON + LOS 60 QUE FALTAN COMPLETAMOS NUESTRO CICLO 
+            //PARA NUESTRO TERCER VALOR REQUERIMOS ALCANZAR LOS 155 ENTONCES YA LLEVAMOS DE TIEMPO 80+60=140 Y NOS FALTA UN VALOR DE 15 PARA ALCANZAR LOS 155
+/*int matriz_1[5][5]={
+(4,    3,  5,   2,   1)             
+(0,   20, 45, 100, 180)       
+(550,700,980,1000,2300) 
+(80, 140, 155,160, 238)             
+(80,60,15,0,0)
+*/
+//AUN ASI LES MANDO UN ARCHIVO PARA QUE TENGAN MAS CLARO POR QUE REQUERIMOS LOS ULTIMOS TIEMPOS PARA ALCANZAR 

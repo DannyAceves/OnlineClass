@@ -1,0 +1,3012 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<xliff xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-strict.xsd" xmlns:xyz="urn:appInfo:Items" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:htm="http://www.w3.org/TR/REC-html40" xmlns:cp="www.adobe.com/captivate" version="1.2">
+		<file datatype="cptx" date="2017-05-17T07:56:57.0Z" original="ENCUESTA.cptx" source-language="enUS">
+			<header>
+				<tool tool-company="Adobe" tool-id="AdobeCaptivate" tool-name="AdobeCaptivate" tool-version="9.0"/>
+				<count-group name="countGroup1">
+					<count count-type="total" unit="trans-unit">456</count>
+					<count count-type="total" unit="word">1579</count>
+					<count count-type="total" unit="x-cp-slides">12</count>
+				</count-group>
+			</header>
+			<body>
+				<group cp:datatype="x-object" extype="4" id="1" restype="x-cp-project">
+					<group cp:datatype="x-property" datatype="plaintext" extype="73" restype="x-cp-project-exp-line-1">
+						<trans-unit id="1-73">
+							<source>El proyecto ha caducado.</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="74" restype="x-cp-project-exp-line-2">
+						<trans-unit id="1-74">
+							<source>
+							</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="591" restype="x-cp-project-password-message">
+						<trans-unit id="1-591">
+							<source>Escriba la contraseña correcta directamente en el cuadro de texto de abajo y haga clic en el botón que aparece a continuación.</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="592" restype="x-cp-project-password-retry-message">
+						<trans-unit id="1-592">
+							<source>La contraseña introducida no es correcta. Vuelva a intentarlo.</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-property" datatype="plaintext" extype="593" restype="x-cp-project-password-button-text">
+						<trans-unit id="1-593">
+							<source>Continuar</source>
+						</trans-unit>
+					</group>
+					<group cp:datatype="x-object" extype="417" id="298" restype="x-cp-project-information">
+						<group cp:datatype="x-property" datatype="plaintext" extype="428" restype="x-cp-project-info-name">
+							<trans-unit id="298-428">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="429" restype="x-cp-project-info-author">
+							<trans-unit id="298-429">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="430" restype="x-cp-project-info-company">
+							<trans-unit id="298-430">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="431" restype="x-cp-project-info-email">
+							<trans-unit id="298-431">
+								<source>author@company.com</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="432" restype="x-cp-project-info-website">
+							<trans-unit id="298-432">
+								<source>www.company.com</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="433" restype="x-cp-project-info-copyright-info">
+							<trans-unit id="298-433">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="434" restype="x-cp-project-info-description">
+							<trans-unit id="298-434">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+					</group>
+					<group cp:datatype="x-object" extype="195" id="506" restype="x-cp-slides">
+						<slide cp:datatype="x-object" extype="30" id="5206" resname="Slide 0" restype="x-cp-standard-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5206-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5206-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5207" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="589" id="5220" restype="Título">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5220-589-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:58.0pt;font:weight:bold;font:style:italics" ctype="x-cp-font" id="5220-589-1-1">¡WEB SITES!</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="5923" resname="Slide 1" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5923-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5923-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5924" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="5960" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5960-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="5960-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="5967" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5967-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="5967-79-1-1">1.- ¿Una página web debe contener un menú interactivo que se adapte a todos los dispositivos?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="5982" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5982-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5982-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="5986" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5986-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5986-80-1-1">Si, debe tener un menú responsive.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="5993" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5993-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5993-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="5997" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5997-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5997-80-1-1">No, simplemente que sea usable y fácil de manipular.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="6001" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6001-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="6001-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="6018" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6018-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="6018-92-1-1">Pregunta 1 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="6022" restype="Button">
+									<trans-unit id="6022-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="6036" restype="Button">
+									<trans-unit id="6036-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="6050" restype="Button">
+									<trans-unit id="6050-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="6064" resname="Slide 2" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="6064-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="6064-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="6065" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="6101" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6101-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="6101-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="6108" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6108-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="6108-79-1-1">2.- ¿Debe contener muchos colores?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6123" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6123-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6123-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6127" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6127-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6127-80-1-1">No, debe ser presentable y elegante, máximo tres colores.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6134" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6134-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6134-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6138" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6138-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6138-80-1-1">Si, debe ser muy llamativa.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="6142" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6142-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="6142-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="6159" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6159-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="6159-92-1-1">Pregunta 2 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="6163" restype="Button">
+									<trans-unit id="6163-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="6177" restype="Button">
+									<trans-unit id="6177-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="6191" restype="Button">
+									<trans-unit id="6191-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="6205" resname="Slide 3" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="6205-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="6205-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="6206" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="6242" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6242-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="6242-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="6249" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6249-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="6249-79-1-1">3.- ¿Una página web debe contener mucha publicidad?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6264" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6264-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6264-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6268" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6268-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6268-80-1-1">Si, es una forma de llamar la atención.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6275" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6275-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6275-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6279" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6279-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6279-80-1-1">No, una página con mucha publicidad puede generar virus.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="6283" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6283-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="6283-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="6300" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6300-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="6300-92-1-1">Pregunta 3 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="6304" restype="Button">
+									<trans-unit id="6304-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="6318" restype="Button">
+									<trans-unit id="6318-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="6332" restype="Button">
+									<trans-unit id="6332-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="6346" resname="Slide 4" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="6346-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="6346-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="6347" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="6383" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6383-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="6383-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="6390" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6390-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="6390-79-1-1">4.- ¿Cómo se sabe si la página es segura o no?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6405" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6405-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6405-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6409" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6409-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6409-80-1-1">Por el numero de visitas y la publicidad que contiene.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6416" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6416-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6416-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6420" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6420-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6420-80-1-1">Por que en el enlace tiene un candado verde, eso significa que es segura.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="6424" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6424-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="6424-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="6441" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6441-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="6441-92-1-1">Pregunta 4 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="6445" restype="Button">
+									<trans-unit id="6445-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="6459" restype="Button">
+									<trans-unit id="6459-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="6473" restype="Button">
+									<trans-unit id="6473-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="6487" resname="Slide 5" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="6487-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="6487-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="6488" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="6524" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6524-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="6524-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="6531" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6531-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="6531-79-1-1">5.- ¿Crees que una página web es escencial?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6546" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6546-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6546-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6550" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6550-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6550-80-1-1">Si, ahora en la actualidad todo se maneja por internet</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6557" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6557-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6557-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6561" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6561-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6561-80-1-1">No, una página web es sólo para diverción.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="6565" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6565-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="6565-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="6582" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6582-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="6582-92-1-1">Pregunta 5 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="6586" restype="Button">
+									<trans-unit id="6586-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="6600" restype="Button">
+									<trans-unit id="6600-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="6614" restype="Button">
+									<trans-unit id="6614-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="6780" resname="Slide 6" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="6780-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="6780-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="6781" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="6817" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6817-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="6817-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="6824" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6824-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="6824-79-1-1">6.- ¿Crees que las páginas web pueden ayudarnos aprender?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6839" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6839-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6839-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6843" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6843-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6843-80-1-1">No, al contrario sólo nos hacen perder el tiempo.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6850" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6850-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6850-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6854" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6854-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6854-80-1-1">Si, tal es el caso de las plataformas E-learning, páginas web de educación.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="6858" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6858-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="6858-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="6875" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6875-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="6875-92-1-1">Pregunta 6 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="6879" restype="Button">
+									<trans-unit id="6879-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="6893" restype="Button">
+									<trans-unit id="6893-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="6907" restype="Button">
+									<trans-unit id="6907-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="6628" resname="Slide 7" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="6628-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="6628-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="6629" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="6665" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6665-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="6665-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="6672" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6672-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="6672-79-1-1">7.- ¿Una página web es dificil de hacer?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6687" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6687-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6687-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6691" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6691-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6691-80-1-1">No, una página web es fácil siempre y cuando pongas empeño en ella.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="6698" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6698-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6698-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="6702" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6702-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="6702-80-1-1">Si, es una cosa del otro mundo, cosas que no se entienden para nada.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="6706" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6706-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="6706-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="6723" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="6723-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="6723-92-1-1">Pregunta 7 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="6727" restype="Button">
+									<trans-unit id="6727-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="6741" restype="Button">
+									<trans-unit id="6741-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="6755" restype="Button">
+									<trans-unit id="6755-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="5251" resname="Slide 8" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5251-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5251-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5252" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="5288" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5288-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="5288-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="5295" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5295-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="5295-79-1-1">8.- ¿Crees que una página web puede llegar a ser un trabajo ideal?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="5310" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5310-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5310-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="5314" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5314-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5314-80-1-1">Claro, puede llegar a ser un gran proyecto personal o empresarial.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="5321" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5321-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5321-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="5325" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5325-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5325-80-1-1">No tanto, sólo lo vería como oscio.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="5329" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5329-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="5329-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="5346" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5346-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="5346-92-1-1">Pregunta 8 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="5350" restype="Button">
+									<trans-unit id="5350-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="5364" restype="Button">
+									<trans-unit id="5364-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="5378" restype="Button">
+									<trans-unit id="5378-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="5392" resname="Slide 9" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5392-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5392-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5393" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="5429" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5429-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="5429-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="5436" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5436-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="5436-79-1-1">9.- ¿Que crees que debe contener una página web de enseñanza?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="5451" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5451-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5451-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="5455" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5455-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5455-80-1-1">Juegos y videos.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="5462" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5462-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5462-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="5466" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5466-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5466-80-1-1">Materiales de apoyo y videos tutoriales.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="5470" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5470-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="5470-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="5487" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5487-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="5487-92-1-1">Pregunta 9 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="5491" restype="Button">
+									<trans-unit id="5491-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="5505" restype="Button">
+									<trans-unit id="5505-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="5519" restype="Button">
+									<trans-unit id="5519-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="77" id="5533" resname="Slide 10" restype="x-cp-question-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5533-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5533-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5534" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="5570" restype="Título de la pregunta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5570-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="5570-86-1-1">Opción múltiple</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="79" id="5577" restype="Pregunta">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5577-79-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:32.0pt" ctype="x-cp-font" id="5577-79-1-1">10.- ¿Todos podemos crear una página web?</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="5592" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5592-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5592-10088-1-1">A)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="5596" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5596-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5596-80-1-1">No, sólo los que tenemos conocimientos en programación.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10088" id="5603" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5603-10088-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5603-10088-1-1">B)</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="80" id="5607" restype="Pie de ilustración emergente">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5607-80-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5607-80-1-1">Si, sólo hace falta iniciativa e imaginación, los materiales de apoyo son diversos y todos prácticos y explicados.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10174" id="5611" restype="Forma de Respuesta incompleta">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5611-10174-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="5611-10174-1-1">Debe contestar a la pregunta antes de continuar.</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="92" id="5628" restype="Pregunta X de Y">
+									<group cp:datatype="x-paragraph" css-style="text-align:left;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5628-92-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:12.0pt" ctype="x-cp-font" id="5628-92-1-1">Pregunta 10 de 10    </g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10180" id="5632" restype="Button">
+									<trans-unit id="5632-10180">
+										<source>&gt;&gt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="10182" id="5646" restype="Button">
+									<trans-unit id="5646-10182">
+										<source>&lt;&lt;</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="91" id="5660" restype="Button">
+									<trans-unit id="5660-91">
+										<source>Enviar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="102" id="5815" resname="Slide 11" restype="x-cp-quiz-results-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5815-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5815-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5816" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="86" id="5836" restype="Título de resultado">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5836-86-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:58.0pt;font:weight:bold" ctype="x-cp-font" id="5836-86-1-1">Resultados de la prueba</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="112" id="5843" restype="Etiqueta de resultado de puntuación">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5843-112-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5843-112-1-1">Su puntuación:</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="112" id="5851" restype="Etiqueta de resultado de puntuación">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5851-112-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5851-112-1-1">Puntuación máxima:</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="112" id="5859" restype="Etiqueta de resultado de puntuación">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5859-112-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5859-112-1-1">Preguntas correctas:</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="112" id="5867" restype="Etiqueta de resultado de puntuación">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5867-112-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5867-112-1-1">Total de preguntas:</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="112" id="5875" restype="Etiqueta de resultado de puntuación">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5875-112-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5875-112-1-1">Precisión:</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="112" id="5883" restype="Etiqueta de resultado de puntuación">
+									<group cp:datatype="x-paragraph" css-style="text-align:right;line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="5883-112-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="5883-112-1-1">Intentos:</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="10119" id="5895" restype="Button">
+									<trans-unit id="5895-10119">
+										<source>Continuar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="103" id="5909" restype="Button">
+									<trans-unit id="5909-103">
+										<source>Revisar prueba</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="583" id="5090" resname="Slide 0" restype="x-cp-main-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5090-337">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5090-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1703" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="1702" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="1702-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="1702-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1748" resname="Slide 1" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="1748-337">
+									<source>Título</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="1748-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1741" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="1727" restype="Marcador de posición de título">
+									<trans-unit id="1727-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="1740" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="1740-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="1740-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1756" resname="Slide 2" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="1756-337">
+									<source>Vacío</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="1756-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1749" restype="x-cp-items"/>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1844" resname="Slide 3" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="1844-337">
+									<source>Objetivos</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="1844-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1837" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="1769" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="1769-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="1769-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1787" restype="Marcador de posición de título">
+									<trans-unit id="1787-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1796" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1796-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1805" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1805-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1814" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1814-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1823" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1823-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="1836" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="1836-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="1836-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="1930" resname="Slide 4" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="1930-337">
+									<source>Tabla de contenido</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="1930-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="1923" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="1864" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1864-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1882" restype="Marcador de posición de título">
+									<trans-unit id="1882-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1891" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1891-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1900" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1900-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1909" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1909-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="1922" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="1922-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="1922-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2025" resname="Slide 5" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2025-337">
+									<source>Contenido 01</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2025-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2018" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="1937" restype="Marcador de posición de imagen">
+									<trans-unit id="1937-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1944" restype="Marcador de posición de imagen">
+									<trans-unit id="1944-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1951" restype="Marcador de posición de imagen">
+									<trans-unit id="1951-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1969" restype="Marcador de posición de título">
+									<trans-unit id="1969-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1978" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1978-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1987" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1987-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="1996" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="1996-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2003" restype="Marcador de posición de imagen">
+									<trans-unit id="2003-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2010" restype="Marcador de posición de imagen">
+									<trans-unit id="2010-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2017" restype="Marcador de posición de imagen">
+									<trans-unit id="2017-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2089" resname="Slide 6" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2089-337">
+									<source>Contenido 02</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2089-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2082" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2054" restype="Marcador de posición de título">
+									<trans-unit id="2054-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2063" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2063-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2072" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2072-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2081" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2081-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2173" resname="Slide 7" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2173-337">
+									<source>Contenido 03</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2173-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2166" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="2102" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2102-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2102-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2120" restype="Marcador de posición de título">
+									<trans-unit id="2120-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2138" restype="Marcador de posición del subtítulo">
+									<trans-unit id="2138-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2145" restype="Marcador de posición de imagen">
+									<trans-unit id="2145-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2152" restype="Marcador de posición de imagen">
+									<trans-unit id="2152-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2165" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2165-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="2165-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2253" resname="Slide 8" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2253-337">
+									<source>Contenido 04</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2253-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2246" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2180" restype="Marcador de posición de imagen">
+									<trans-unit id="2180-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2193" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2193-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2193-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2211" restype="Marcador de posición de título">
+									<trans-unit id="2211-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2229" restype="Marcador de posición del subtítulo">
+									<trans-unit id="2229-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2238" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2238-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2245" restype="Marcador de posición de imagen">
+									<trans-unit id="2245-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2347" resname="Slide 9" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2347-337">
+									<source>Contenido 05</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2347-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2340" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2271" restype="Marcador de posición de título">
+									<trans-unit id="2271-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2289" restype="Marcador de posición del subtítulo">
+									<trans-unit id="2289-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2298" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2298-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2305" restype="Marcador de posición de imagen">
+									<trans-unit id="2305-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2312" restype="Marcador de posición de imagen">
+									<trans-unit id="2312-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2325" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2325-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="2325-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2332" restype="Marcador de posición de imagen">
+									<trans-unit id="2332-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2339" restype="Marcador de posición de imagen">
+									<trans-unit id="2339-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2432" resname="Slide 10" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2432-337">
+									<source>Contenido 06</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2432-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2425" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2354" restype="Marcador de posición de imagen">
+									<trans-unit id="2354-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2372" restype="Marcador de posición del subtítulo">
+									<trans-unit id="2372-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2385" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2385-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2385-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2392" restype="Marcador de posición de imagen">
+									<trans-unit id="2392-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2399" restype="Marcador de posición de imagen">
+									<trans-unit id="2399-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2406" restype="Marcador de posición de imagen">
+									<trans-unit id="2406-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2424" restype="Marcador de posición de título">
+									<trans-unit id="2424-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2522" resname="Slide 11" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2522-337">
+									<source>Contenido 07</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2522-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2515" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2461" restype="Marcador de posición de título">
+									<trans-unit id="2461-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2479" restype="Marcador de posición del subtítulo">
+									<trans-unit id="2479-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2488" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2488-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2501" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2501-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="2501-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2514" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2514-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#4c4c4c;font-size:20.0pt" ctype="x-cp-font" id="2514-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2589" resname="Slide 12" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2589-337">
+									<source>Contenido 08</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2589-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2582" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2540" restype="Marcador de posición de título">
+									<trans-unit id="2540-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2558" restype="Marcador de posición del subtítulo">
+									<trans-unit id="2558-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2567" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2567-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2574" restype="Marcador de posición de imagen">
+									<trans-unit id="2574-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2581" restype="Marcador de posición de imagen">
+									<trans-unit id="2581-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2742" resname="Slide 13" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2742-337">
+									<source>Ciclo/Proceso 1</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2742-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2735" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2607" restype="Marcador de posición de imagen">
+									<trans-unit id="2607-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2616" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2616-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2623" restype="Marcador de posición de imagen">
+									<trans-unit id="2623-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2632" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2632-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2639" restype="Marcador de posición de imagen">
+									<trans-unit id="2639-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2648" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2648-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2655" restype="Marcador de posición de imagen">
+									<trans-unit id="2655-190">
+										<source>IMAGEN</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2664" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2664-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2677" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2677-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2677-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2690" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2690-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2690-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2703" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2703-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2703-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2716" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2716-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2716-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2734" restype="Marcador de posición de título">
+									<trans-unit id="2734-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2868" resname="Slide 14" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2868-337">
+									<source>Ciclo/Proceso 2</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2868-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2861" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="190" id="2760" restype="Marcador de posición de título">
+									<trans-unit id="2760-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2778" restype="Marcador de posición del subtítulo">
+									<trans-unit id="2778-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2787" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2787-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2796" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2796-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2805" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2805-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="584" id="2947" resname="Slide 15" restype="x-cp-content-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="2947-337">
+									<source>Conclusión</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="2947-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="2940" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="2881" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2881-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2881-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="612" id="2894" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2894-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2894-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2912" restype="Marcador de posición de título">
+									<trans-unit id="2912-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2921" restype="Marcador de posición de pie de ilustración de texto">
+									<trans-unit id="2921-190">
+										<source>LEYENDA DE TEXTO</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2939" restype="Marcador de posición del subtítulo">
+									<trans-unit id="2939-190">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="3215" resname="Slide 16" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="3215-337">
+									<source>OM, V/F, REB, Secuencia</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="3215-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="3208" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="2960" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="2960-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="2960-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2979" restype="Marcador de posición de botón Atrás de modo de revisión">
+									<trans-unit id="2979-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="2998" restype="Marcador de posición de botón Siguiente">
+									<trans-unit id="2998-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3010" restype="Marcador de posición de título">
+									<trans-unit id="3010-190">
+										<source>Marcador de posición de título de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3022" restype="Marcador de posición de la pregunta">
+									<trans-unit id="3022-190">
+										<source>Marcador de posición de texto de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3041" restype="Marcador de posición de área de respuesta">
+									<trans-unit id="3041-190">
+										<source>Marcador de posición de área de respuesta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3059" restype="Marcador de posición de forma de Aprobado">
+									<trans-unit id="3059-190">
+										<source>Marcador de posición de leyenda de aprobado</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3077" restype="Marcador de posición de forma de Suspenso">
+									<trans-unit id="3077-190">
+										<source>Marcador de posición de leyenda de suspenso</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3095" restype="Marcador de posición de forma de Incompleto">
+									<trans-unit id="3095-190">
+										<source>Marcador de posición de leyenda de respuesta incompleta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3104" restype="Marcador de posición de área de revisión">
+									<trans-unit id="3104-190">
+										<source>Área de revisión</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3113" restype="Marcador de posición de indicador de progreso">
+									<trans-unit id="3113-190">
+										<source>Pregunta X de Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3132" restype="Marcador de posición de botón Enviar">
+									<trans-unit id="3132-190">
+										<source>Marcador de posición de botón Enviar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3151" restype="Marcador de posición de botón Omitir">
+									<trans-unit id="3151-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3170" restype="Marcador de posición de botón Atrás">
+									<trans-unit id="3170-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3189" restype="Marcador de posición de botón Borrar">
+									<trans-unit id="3189-190">
+										<source>Marcador de posición de botón Borrar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3207" restype="Marcador de posición de forma de Reintentar">
+									<trans-unit id="3207-190">
+										<source>Marcador de posición de leyenda de reintento</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="3483" resname="Slide 17" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="3483-337">
+									<source>OM, V/F, REB, Secuencia2</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="3483-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="3476" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="3228" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3228-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="3228-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3247" restype="Marcador de posición de botón Atrás de modo de revisión">
+									<trans-unit id="3247-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3266" restype="Marcador de posición de botón Siguiente">
+									<trans-unit id="3266-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3278" restype="Marcador de posición de título">
+									<trans-unit id="3278-190">
+										<source>Marcador de posición de título de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3290" restype="Marcador de posición de la pregunta">
+									<trans-unit id="3290-190">
+										<source>Marcador de posición de texto de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3309" restype="Marcador de posición de área de respuesta">
+									<trans-unit id="3309-190">
+										<source>Marcador de posición de área de respuesta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3327" restype="Marcador de posición de forma de Aprobado">
+									<trans-unit id="3327-190">
+										<source>Marcador de posición de leyenda de aprobado</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3345" restype="Marcador de posición de forma de Suspenso">
+									<trans-unit id="3345-190">
+										<source>Marcador de posición de leyenda de suspenso</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3363" restype="Marcador de posición de forma de Incompleto">
+									<trans-unit id="3363-190">
+										<source>Marcador de posición de leyenda de respuesta incompleta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3372" restype="Marcador de posición de área de revisión">
+									<trans-unit id="3372-190">
+										<source>Área de revisión</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3381" restype="Marcador de posición de indicador de progreso">
+									<trans-unit id="3381-190">
+										<source>Pregunta X de Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3400" restype="Marcador de posición de botón Enviar">
+									<trans-unit id="3400-190">
+										<source>Marcador de posición de botón Enviar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3419" restype="Marcador de posición de botón Omitir">
+									<trans-unit id="3419-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3438" restype="Marcador de posición de botón Atrás">
+									<trans-unit id="3438-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3457" restype="Marcador de posición de botón Borrar">
+									<trans-unit id="3457-190">
+										<source>Marcador de posición de botón Borrar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3475" restype="Marcador de posición de forma de Reintentar">
+									<trans-unit id="3475-190">
+										<source>Marcador de posición de leyenda de reintento</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="3788" resname="Slide 18" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="3788-337">
+									<source>Asociación</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="3788-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="3781" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="3496" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3496-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="3496-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3515" restype="Marcador de posición de botón Atrás de modo de revisión">
+									<trans-unit id="3515-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3534" restype="Marcador de posición de botón Siguiente">
+									<trans-unit id="3534-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3546" restype="Marcador de posición de título">
+									<trans-unit id="3546-190">
+										<source>Marcador de posición de título de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3558" restype="Marcador de posición de la pregunta">
+									<trans-unit id="3558-190">
+										<source>Marcador de posición de texto de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3567" restype="Marcador de posición de la columna 1">
+									<trans-unit id="3567-190">
+										<source>Marcador de posición del área de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3576" restype="Marcador de posición de la columna 2">
+									<trans-unit id="3576-190">
+										<source>Marcador de posición del área de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3595" restype="Marcador de posición del área de pregunta">
+									<trans-unit id="3595-190">
+										<source>Marcador de posición del área de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3614" restype="Marcador de posición de área de respuesta">
+									<trans-unit id="3614-190">
+										<source>Marcador de posición de área de respuesta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3632" restype="Marcador de posición de forma de Aprobado">
+									<trans-unit id="3632-190">
+										<source>Marcador de posición de leyenda de aprobado</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3650" restype="Marcador de posición de forma de Suspenso">
+									<trans-unit id="3650-190">
+										<source>Marcador de posición de leyenda de suspenso</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3668" restype="Marcador de posición de forma de Incompleto">
+									<trans-unit id="3668-190">
+										<source>Marcador de posición de leyenda de respuesta incompleta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3677" restype="Marcador de posición de área de revisión">
+									<trans-unit id="3677-190">
+										<source>Área de revisión</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3686" restype="Marcador de posición de indicador de progreso">
+									<trans-unit id="3686-190">
+										<source>Pregunta X de Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3705" restype="Marcador de posición de botón Enviar">
+									<trans-unit id="3705-190">
+										<source>Marcador de posición de botón Enviar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3724" restype="Marcador de posición de botón Omitir">
+									<trans-unit id="3724-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3743" restype="Marcador de posición de botón Atrás">
+									<trans-unit id="3743-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3762" restype="Marcador de posición de botón Borrar">
+									<trans-unit id="3762-190">
+										<source>Marcador de posición de botón Borrar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3780" restype="Marcador de posición de forma de Reintentar">
+									<trans-unit id="3780-190">
+										<source>Marcador de posición de leyenda de reintento</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4093" resname="Slide 19" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4093-337">
+									<source>Asociación2</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4093-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4086" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="3801" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="3801-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="3801-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3820" restype="Marcador de posición de botón Atrás de modo de revisión">
+									<trans-unit id="3820-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3839" restype="Marcador de posición de botón Siguiente">
+									<trans-unit id="3839-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3851" restype="Marcador de posición de título">
+									<trans-unit id="3851-190">
+										<source>Marcador de posición de título de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3863" restype="Marcador de posición de la pregunta">
+									<trans-unit id="3863-190">
+										<source>Marcador de posición de texto de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3872" restype="Marcador de posición de la columna 1">
+									<trans-unit id="3872-190">
+										<source>Marcador de posición del área de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3881" restype="Marcador de posición de la columna 2">
+									<trans-unit id="3881-190">
+										<source>Marcador de posición del área de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3900" restype="Marcador de posición del área de pregunta">
+									<trans-unit id="3900-190">
+										<source>Marcador de posición del área de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3919" restype="Marcador de posición de área de respuesta">
+									<trans-unit id="3919-190">
+										<source>Marcador de posición de área de respuesta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3937" restype="Marcador de posición de forma de Aprobado">
+									<trans-unit id="3937-190">
+										<source>Marcador de posición de leyenda de aprobado</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3955" restype="Marcador de posición de forma de Suspenso">
+									<trans-unit id="3955-190">
+										<source>Marcador de posición de leyenda de suspenso</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3973" restype="Marcador de posición de forma de Incompleto">
+									<trans-unit id="3973-190">
+										<source>Marcador de posición de leyenda de respuesta incompleta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3982" restype="Marcador de posición de área de revisión">
+									<trans-unit id="3982-190">
+										<source>Área de revisión</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="3991" restype="Marcador de posición de indicador de progreso">
+									<trans-unit id="3991-190">
+										<source>Pregunta X de Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4010" restype="Marcador de posición de botón Enviar">
+									<trans-unit id="4010-190">
+										<source>Marcador de posición de botón Enviar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4029" restype="Marcador de posición de botón Omitir">
+									<trans-unit id="4029-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4048" restype="Marcador de posición de botón Atrás">
+									<trans-unit id="4048-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4067" restype="Marcador de posición de botón Borrar">
+									<trans-unit id="4067-190">
+										<source>Marcador de posición de botón Borrar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4085" restype="Marcador de posición de forma de Reintentar">
+									<trans-unit id="4085-190">
+										<source>Marcador de posición de leyenda de reintento</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4342" resname="Slide 20" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4342-337">
+									<source>Zona interactiva</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4342-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4335" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="4106" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="4106-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="4106-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4125" restype="Marcador de posición de botón Atrás de modo de revisión">
+									<trans-unit id="4125-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4144" restype="Marcador de posición de botón Siguiente">
+									<trans-unit id="4144-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4156" restype="Marcador de posición de título">
+									<trans-unit id="4156-190">
+										<source>Marcador de posición de título de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4168" restype="Marcador de posición de la pregunta">
+									<trans-unit id="4168-190">
+										<source>Marcador de posición de texto de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4186" restype="Marcador de posición de forma de Aprobado">
+									<trans-unit id="4186-190">
+										<source>Marcador de posición de leyenda de aprobado</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4204" restype="Marcador de posición de forma de Suspenso">
+									<trans-unit id="4204-190">
+										<source>Marcador de posición de leyenda de suspenso</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4222" restype="Marcador de posición de forma de Incompleto">
+									<trans-unit id="4222-190">
+										<source>Marcador de posición de leyenda de respuesta incompleta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4231" restype="Marcador de posición de área de revisión">
+									<trans-unit id="4231-190">
+										<source>Área de revisión</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4240" restype="Marcador de posición de indicador de progreso">
+									<trans-unit id="4240-190">
+										<source>Pregunta X de Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4259" restype="Marcador de posición de botón Enviar">
+									<trans-unit id="4259-190">
+										<source>Marcador de posición de botón Enviar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4278" restype="Marcador de posición de botón Omitir">
+									<trans-unit id="4278-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4297" restype="Marcador de posición de botón Atrás">
+									<trans-unit id="4297-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4316" restype="Marcador de posición de botón Borrar">
+									<trans-unit id="4316-190">
+										<source>Marcador de posición de botón Borrar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4334" restype="Marcador de posición de forma de Reintentar">
+									<trans-unit id="4334-190">
+										<source>Marcador de posición de leyenda de reintento</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4591" resname="Slide 21" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4591-337">
+									<source>Zona interactiva2</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4591-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4584" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="4355" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="4355-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="4355-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4374" restype="Marcador de posición de botón Atrás de modo de revisión">
+									<trans-unit id="4374-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4393" restype="Marcador de posición de botón Siguiente">
+									<trans-unit id="4393-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4405" restype="Marcador de posición de título">
+									<trans-unit id="4405-190">
+										<source>Marcador de posición de título de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4417" restype="Marcador de posición de la pregunta">
+									<trans-unit id="4417-190">
+										<source>Marcador de posición de texto de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4435" restype="Marcador de posición de forma de Aprobado">
+									<trans-unit id="4435-190">
+										<source>Marcador de posición de leyenda de aprobado</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4453" restype="Marcador de posición de forma de Suspenso">
+									<trans-unit id="4453-190">
+										<source>Marcador de posición de leyenda de suspenso</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4471" restype="Marcador de posición de forma de Incompleto">
+									<trans-unit id="4471-190">
+										<source>Marcador de posición de leyenda de respuesta incompleta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4480" restype="Marcador de posición de área de revisión">
+									<trans-unit id="4480-190">
+										<source>Área de revisión</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4489" restype="Marcador de posición de indicador de progreso">
+									<trans-unit id="4489-190">
+										<source>Pregunta X de Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4508" restype="Marcador de posición de botón Enviar">
+									<trans-unit id="4508-190">
+										<source>Marcador de posición de botón Enviar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4527" restype="Marcador de posición de botón Omitir">
+									<trans-unit id="4527-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4546" restype="Marcador de posición de botón Atrás">
+									<trans-unit id="4546-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4565" restype="Marcador de posición de botón Borrar">
+									<trans-unit id="4565-190">
+										<source>Marcador de posición de botón Borrar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4583" restype="Marcador de posición de forma de Reintentar">
+									<trans-unit id="4583-190">
+										<source>Marcador de posición de leyenda de reintento</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="4862" resname="Slide 22" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="4862-337">
+									<source>Likert</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="4862-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="4855" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="4604" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="4604-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="4604-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4623" restype="Marcador de posición de botón Atrás de modo de revisión">
+									<trans-unit id="4623-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4642" restype="Marcador de posición de botón Siguiente">
+									<trans-unit id="4642-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4654" restype="Marcador de posición de título">
+									<trans-unit id="4654-190">
+										<source>Marcador de posición de título de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4666" restype="Marcador de posición de la pregunta">
+									<trans-unit id="4666-190">
+										<source>Marcador de posición de texto de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4742" restype="Marcador de posición de área de pregunta Likert">
+									<trans-unit id="4742-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4760" restype="Marcador de posición de forma de Incompleto">
+									<trans-unit id="4760-190">
+										<source>Marcador de posición de leyenda de respuesta incompleta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4769" restype="Marcador de posición de área de revisión">
+									<trans-unit id="4769-190">
+										<source>Área de revisión</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4778" restype="Marcador de posición de indicador de progreso">
+									<trans-unit id="4778-190">
+										<source>Pregunta X de Y</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4797" restype="Marcador de posición de botón Enviar">
+									<trans-unit id="4797-190">
+										<source>Marcador de posición de botón Enviar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4816" restype="Marcador de posición de botón Omitir">
+									<trans-unit id="4816-190">
+										<source>Marcador de posición de botón Omitir</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4835" restype="Marcador de posición de botón Atrás">
+									<trans-unit id="4835-190">
+										<source>Marcador de posición de botón Atrás</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4854" restype="Marcador de posición de botón Borrar">
+									<trans-unit id="4854-190">
+										<source>Marcador de posición de botón Borrar</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+						<slide cp:datatype="x-object" extype="10141" id="5088" resname="Slide 23" restype="x-cp-quiz-master-slide">
+							<group cp:datatype="x-property" datatype="plaintext" extype="337" restype="x-cp-slide-label">
+								<trans-unit id="5088-337">
+									<source>Resultado</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-property" datatype="plaintext" extype="1285" restype="x-cp-slide-accessibility">
+								<trans-unit id="5088-1285">
+									<source>
+									</source>
+								</trans-unit>
+							</group>
+							<group cp:datatype="x-object" extype="69" id="5081" restype="x-cp-items">
+								<group cp:datatype="x-object" extype="612" id="4875" restype="Forma inteligente">
+									<group cp:datatype="x-paragraph" css-style="line-spacing:1.00;line-indent:0.00">
+										<trans-unit id="4875-612-1">
+											<source>
+												<g css-style="font-family:'Trebuchet MS';font-face:'Regular';color:#ffffff;font-size:20.0pt" ctype="x-cp-font" id="4875-612-1-1">
+												</g>
+											</source>
+										</trans-unit>
+									</group>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4894" restype="Marcador de posición de botón de segunda toma">
+									<trans-unit id="4894-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4913" restype="Marcador de posición de botón Publicar resultado">
+									<trans-unit id="4913-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4925" restype="Marcador de posición de título de resultado">
+									<trans-unit id="4925-190">
+										<source>Marcador de posición de título de pregunta</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4943" restype="Marcador de posición de etiqueta de resultado de puntuación">
+									<trans-unit id="4943-190">
+										<source>Marcador de posición de etiqueta de resultado de puntuación</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4961" restype="Marcador de posición de etiqueta de resultado de puntuación">
+									<trans-unit id="4961-190">
+										<source>Marcador de posición de etiqueta de resultado de puntuación</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4979" restype="Marcador de posición de etiqueta de resultado de puntuación">
+									<trans-unit id="4979-190">
+										<source>Marcador de posición de etiqueta de resultado de puntuación</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4997" restype="Marcador de posición de etiqueta de resultado de puntuación">
+									<trans-unit id="4997-190">
+										<source>Marcador de posición de etiqueta de resultado de puntuación</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5015" restype="Marcador de posición de etiqueta de resultado de puntuación">
+									<trans-unit id="5015-190">
+										<source>Marcador de posición de etiqueta de resultado de puntuación</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5033" restype="Marcador de posición de etiqueta de resultado de puntuación">
+									<trans-unit id="5033-190">
+										<source>Marcador de posición de etiqueta de resultado de puntuación</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5042" restype="Marcador de posición de área de revisión">
+									<trans-unit id="5042-190">
+										<source>Área de revisión</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5061" restype="Marcador de posición de botón Continuar">
+									<trans-unit id="5061-190">
+										<source>Marcador de posición de botón Borrar</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5080" restype="Marcador de posición de botón Revisar">
+									<trans-unit id="5080-190">
+										<source>PlaceHolder for Adobe Captivate 5</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4934" restype="Marcador de posición de resultado de puntuación">
+									<trans-unit id="4934-190">
+										<source>puntuación</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4952" restype="Marcador de posición de resultado de puntuación">
+									<trans-unit id="4952-190">
+										<source>puntuación-máx</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4970" restype="Marcador de posición de resultado de puntuación">
+									<trans-unit id="4970-190">
+										<source>preguntas-correctas</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="4988" restype="Marcador de posición de resultado de puntuación">
+									<trans-unit id="4988-190">
+										<source>preguntas-totales</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5006" restype="Marcador de posición de resultado de puntuación">
+									<trans-unit id="5006-190">
+										<source>porcentaje</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-object" extype="190" id="5024" restype="Marcador de posición de resultado de puntuación">
+									<trans-unit id="5024-190">
+										<source>intentos-totales</source>
+									</trans-unit>
+								</group>
+							</group>
+						</slide>
+					</group>
+					<group cp:datatype="x-object" extype="197" id="375" restype="x-cp-quiz-manager">
+						<group cp:datatype="x-property" datatype="plaintext" extype="10009" restype="x-cp-quiz-submit-button-name">
+							<trans-unit id="375-10009">
+								<source>Enviar</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10335" restype="x-cp-quiz-submit-all-button-name">
+							<trans-unit id="375-10335">
+								<source>Enviar todo</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10113" restype="x-cp-quiz-clear-button-name">
+							<trans-unit id="375-10113">
+								<source>Borrar</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10007" restype="x-cp-quiz-skip-button-name">
+							<trans-unit id="375-10007">
+								<source>Omitir</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10008" restype="x-cp-quiz-back-button-name">
+							<trans-unit id="375-10008">
+								<source>Atrás</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10237" restype="x-cp-quiz-review-button-name">
+							<trans-unit id="375-10237">
+								<source>Revisar prueba</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10269" restype="x-cp-quiz-continue-button-name">
+							<trans-unit id="375-10269">
+								<source>Continuar</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10011" restype="x-cp-quiz-email-address">
+							<trans-unit id="375-10011">
+								<source>
+								</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10105" restype="x-cp-quiz-correct-feedback-text">
+							<trans-unit id="375-10105">
+								<source>Correcto: haga clic en cualquier lugar o presione “y” para continuar.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10291" restype="x-cp-quiz-partial-correct-feedback-text">
+							<trans-unit id="375-10291">
+								<source>Parcialmente correcta: haga clic en cualquier lugar o presione 'y' para continuar.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10106" restype="x-cp-quiz-incorrect-feedback-text">
+							<trans-unit id="375-10106">
+								<source>Incorrecto: haga clic en cualquier lugar o presione “y” para continuar.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10107" restype="x-cp-quiz-retry-feedback-text">
+							<trans-unit id="375-10107">
+								<source>Inténtelo de nuevo</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10184" restype="x-cp-quiz-incomplete-feedback-text">
+							<trans-unit id="375-10184">
+								<source>Debe contestar a la pregunta antes de continuar.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10188" restype="x-cp-quiz-timeout-feedback-text">
+							<trans-unit id="375-10188">
+								<source>Se ha acabado el tiempo para contestar a esta pregunta. Haga clic en cualquier lugar o presione “y” para continuar.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10358" restype="x-cp-quiz-submit-all-complete-text">
+							<trans-unit id="375-10358">
+								<source>Ha respondido a todas las preguntas. ¿Qué desea hacer a continuación?</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10359" restype="x-cp-quiz-submit-all-incomplete-text">
+							<trans-unit id="375-10359">
+								<source>Hay una o más preguntas incompletas. Debe responder a todas las preguntas para continuar.</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-property" datatype="plaintext" extype="10360" restype="x-cp-quiz-submit-all-submit-incomplete-text">
+							<trans-unit id="375-10360">
+								<source>Aún quedan preguntas sin responder. ¿Seguro que desea continuar sin responder a esas preguntas?</source>
+							</trans-unit>
+						</group>
+						<group cp:datatype="x-object" extype="10042" id="376" restype="x-cp-quizzes">
+							<group cp:datatype="x-object" extype="10003" id="377" restype="x-cp-quiz">
+								<group cp:datatype="x-property" datatype="plaintext" extype="10002" restype="x-cp-quiz-name">
+									<trans-unit id="377-10002">
+										<source>Prueba</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10231" restype="x-cp-quiz-lms-objective-id">
+									<trans-unit id="377-10231">
+										<source>Quiz_201751771733</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10072" restype="x-cp-quiz-interaction-id-prefix">
+									<trans-unit id="377-10072">
+										<source>
+										</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10171" restype="x-cp-quiz-review-correct-message">
+									<trans-unit id="377-10171">
+										<source>¡Ha contestado correctamente!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10330" restype="x-cp-quiz-review-partial-correct-message">
+									<trans-unit id="377-10330">
+										<source>Su respuesta es parcialmente correcta.</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10172" restype="x-cp-quiz-review-incomplete-message">
+									<trans-unit id="377-10172">
+										<source>No ha respondido a esta pregunta completamente.</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10173" restype="x-cp-quiz-review-incorrect-message-line-1">
+									<trans-unit id="377-10173">
+										<source>Su respuesta:</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10174" restype="x-cp-quiz-review-incorrect-message-line-2">
+									<trans-unit id="377-10174">
+										<source>La respuesta correcta es:</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10165" restype="x-cp-quiz-result-pass-message">
+									<trans-unit id="377-10165">
+										<source>Enhorabuena, ha aprobado la prueba.</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10166" restype="x-cp-quiz-result-fail-message">
+									<trans-unit id="377-10166">
+										<source>Lo sentimos, ¡ha suspendido!</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10170" restype="x-cp-quiz-result-email-button-text">
+									<trans-unit id="377-10170">
+										<source>Enviar correo electrónico</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10265" restype="x-cp-quiz-result-retake-button-text">
+									<trans-unit id="377-10265">
+										<source>Retomar prueba</source>
+									</trans-unit>
+								</group>
+								<group cp:datatype="x-property" datatype="plaintext" extype="10271" restype="x-cp-quiz-result-post-result-text">
+									<trans-unit id="377-10271">
+										<source>Publicar resultado</source>
+									</trans-unit>
+								</group>
+							</group>
+						</group>
+					</group>
+				</group>
+			</body>
+		</file>
+	</xliff>
